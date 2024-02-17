@@ -16,11 +16,11 @@ This repository hosts solutions to Python assignments covering different topics 
 
 ## Assignments
 
-1. [To-Do List Application](todo_app.py): A command-line to-do list application where users can add, delete, and mark tasks as completed.
+1. [To-Do List Application](todolist.py): A command-line to-do list application where users can add, delete, and mark tasks as completed.
 
-2. [Weather App](weather_app.py): A Python program that retrieves weather information using an API and displays it to the user. Users can input a city and get the current weather conditions.
+2. [Weather App](weatherapp.py): A Python program that retrieves weather information using an API and displays it to the user. Users can input a city and get the current weather conditions.
 
-3. [Expense Tracker](expense_tracker.py): An expense tracking system where users can input their daily expenses, categorize them, and view spending patterns over time.
+3. [Expense Tracker](expense.py): An expense tracking system where users can input their daily expenses, categorize them, and view spending patterns over time.
 
 4. [Chatbot](chatbot.py): A simple chatbot developed using natural language processing libraries. The chatbot can answer basic questions and engage in a conversation.
 
